@@ -1,0 +1,19 @@
+    body {
+        background-color: white;
+    }
+
+    h1 { 
+        color: red;
+    }
+
+    #ocupacion {
+        color: green;
+    }
+
+    .intro {
+        color: purple;
+    }
+
+    img {
+        border: 2px solid black;
+    }

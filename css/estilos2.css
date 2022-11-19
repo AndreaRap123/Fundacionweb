@@ -1,0 +1,12 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  background-color: rgba(15, 240, 45, 0.534);
+  color: rgb(0, 0, 0);
+}
+
+#tablas { border-collapse: collapse;}
+#tablas td {
+    padding-left: 10px;
+    padding-right: 70px;
+    border: 1px solid black;
+}
